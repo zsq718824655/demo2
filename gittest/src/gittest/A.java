@@ -10,6 +10,7 @@ public class A {
 		System.out.println("44d");
 
 		System.out.println("33d");
+System.out.println("55d");
 
 	}
 }
