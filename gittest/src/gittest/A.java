@@ -15,6 +15,7 @@ public class A {
 		System.out.println("66d");
 
 System.out.println("55d");
+System.out.println("88");
 
 	}
 }
