@@ -20,5 +20,7 @@ System.out.println("88");
 System.out.println("666d");
 System.out.println("11111111");
 
+System.out.println("10000000");
+
 	}
 }
